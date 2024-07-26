@@ -1,6 +1,4 @@
 
-package sabbir.anisulislamvideo;
-
 import java.util.Scanner;
 
 
